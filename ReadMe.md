@@ -1,4 +1,4 @@
-www.yaml.org/Gamandoor.in
+www.yaml.org/hajizafar.gamandor
 ============
 
 This repo contains the source material and build tools for <https://yaml.org>.
